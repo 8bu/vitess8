@@ -6,7 +6,7 @@
 
 - 📦 [Components auto importing](./src/components)
 
-- 📲 [PWA](https://github.com/antfu/vite-plugin-pwa)
+- 📲 [PWA](https://github.com/antfu/vite-plugin-pwa) (disabled by default, enable in `vite.config`)
 
 - 🎨 [TailwindCSS **v2.0**](https://blog.tailwindcss.com/tailwindcss-v2) with dark mode out-of-box
 
