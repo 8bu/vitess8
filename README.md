@@ -41,7 +41,7 @@
 - [Vue Router](https://github.com/vuejs/vue-router)
   - [`vite-plugin-pages`](https://github.com/hannoeru/vite-plugin-pages) - file system based routing
 - [`vite-plugin-components`](https://github.com/antfu/vite-plugin-components) - components auto import
-- [`vite-plugin-pwa`](https://github.com/antfu/vite-plugin-pwa) - PWA
+- [`vite-plugin-pwa`](https://github.com/antfu/vite-plugin-pwa) - PWA (disabled by default, enable in `vite.config`)
 - [`vite-plugin-md`](https://github.com/antfu/vite-plugin-md) - Markdown as components / components in Markdown
   - [`markdown-it-prism`](https://github.com/jGleitz/markdown-it-prism) - [Prism](https://prismjs.com/) for syntax highlighting
   - [`prism-theme-vars`](https://github.com/antfu/prism-theme-vars) - customizable Prism.js theme using CSS variables
@@ -71,6 +71,16 @@
   - ...
 
 ## Usage
+
+### Install pnpm
+
+```bash
+npm install -g pnpm
+// or
+curl -L https://pnpm.js.org/pnpm.js | node - add --global pnpm
+// or
+npx pnpm add -g pnpm
+```
 
 ### Development
 
