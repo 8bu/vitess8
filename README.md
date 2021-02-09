@@ -16,7 +16,7 @@
 
 - 🗒 [Markdown Support](https://github.com/antfu/vite-plugin-md)
 
-- 🔥 Use the [new `<script setup>` style](https://github.com/vuejs/rfcs/pull/227)
+<!-- - 🔥 Use the [new `<script setup>` style](https://github.com/vuejs/rfcs/pull/227) -->
 
 - 🖨 Server-side generation (SSG) via [vite-ssg](https://github.com/antfu/vite-ssg)
 
@@ -49,11 +49,13 @@
   - [`vite-plugin-vue-i18n`](https://github.com/intlify/vite-plugin-vue-i18n) - Vite plugin for Vue I18n
 - [VueUse](https://github.com/antfu/vueuse) - collection of useful composition APIs
 - [`@vueuse/head`](https://github.com/vueuse/head) - manipulate document head reactively
+- [`vite-plugin-babel-import`](https://github.com/0ahz/vite-plugin-babel-import) - to work babel-plugin-import
 
 ### Coding Style
 
-- Use Composition API with [`<script setup>` SFC](https://github.com/vuejs/rfcs/pull/227)
-- [ESLint](https://eslint.org/) with [@antfu/eslint-config-vue](https://github.com/antfu/eslint-config), single quotes, no semi.
+<!-- - Use Composition API with [`<script setup>` SFC](https://github.com/vuejs/rfcs/pull/227) -->
+
+- [ESLint](https://eslint.org/) with [@vue/eslint-config-typescript](https://www.npmjs.com/package/@vue/eslint-config-typescript).
 
 ### Dev tools
 
@@ -66,7 +68,7 @@
   - [i18n Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally)
   - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
+  - ...
 
 ## Usage
 
