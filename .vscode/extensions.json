@@ -8,7 +8,6 @@
     "stylelint.vscode-stylelint",
     "DavidAnson.vscode-markdownlint",
     "esbenp.prettier-vscode",
-    "antfu.i18n-ally",
     "Orta.vscode-jest",
     "mikestead.dotenv",
     "heybourn.headwind",
